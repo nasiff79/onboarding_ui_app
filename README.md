@@ -1,6 +1,6 @@
 # onboarding_ui_app
-
-A new Flutter application.
+onBoarding UI practice.
+original link : https://github.com/MarcusNg/flutter_onboarding_ui
 
 ## Getting Started
 
